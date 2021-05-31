@@ -251,6 +251,13 @@ li {
     color: #00dbd0;
 }
 
+.bg-img {
+    position: absolute;
+    overflow: hidden;
+    right: 80%;
+    top: 120%;
+}
+
 /* Part 5 */
 
 .part-5 {
@@ -349,4 +356,91 @@ li {
     font-size: 14px;
     color: #374b5c;
     background-color: #ffffff;
+}
+
+/* Part 7/Footer */
+
+.footer {
+    padding: 50px 120px 0 120px;
+    display: flex;
+    background-image: url(assets/Group\ 229.png);
+    width: 100%;
+    height: 359px;
+    padding-top: 100px;
+}
+
+.logo-desc {
+    font-size: 14px;
+    color: #ffffff;
+    margin: 30px 0 30px 0;
+}
+
+.copyright-underline {
+    border-top: solid;
+    border-top-color: #00dbd0;
+    padding-top: 15px;
+}
+
+.copyright {
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.list {
+    display: flex;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    padding-left: 100px;
+}
+
+.info-heading {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 30px;
+    padding-left: 50px;
+}
+
+.underline {
+    border-bottom: solid;
+    border-bottom-color: #00dbd0;
+    padding-bottom: 15px;
+}
+
+.info-ul-1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.info-ul-2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.info-list-item {
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.social-media {
+    margin: 0 0 0 230px;
+}
+
+.social-heading {
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: bold;
+    margin-bottom: 35px;
+}
+
+.social-icons {
+    display: flex;
+}
+
+.sm-icon {
+    margin-right: 15px;
 }
