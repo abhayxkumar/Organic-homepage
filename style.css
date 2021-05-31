@@ -159,7 +159,7 @@ li {
 }
 
 
-.grp207-2,
+
 .grp205-3,
 .grp207-4 {
     margin-left: 30px;
@@ -167,4 +167,36 @@ li {
 
 .grp207-1 {
     margin-right: 30px;
+}
+
+/* Part 3 */
+
+.part-3 {
+    background-color: #fbfefe;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.heading-part-3 {
+    font-size: 36px;
+    font-weight: normal;
+    color: #374b5c;
+    margin-bottom: 14px;
+}
+
+.desc-part-3 {
+    font-size: 16px;
+    font-weight: normal;
+    color: #374b5c;
+    margin-bottom: 60px;
+}
+
+.grp64-2,
+.grp55-3,
+.grp64-4,
+.grp39-5 {
+    margin-left: 80px;
 }
