@@ -200,3 +200,53 @@ li {
 .grp39-5 {
     margin-left: 80px;
 }
+
+.dots-part-3 {
+    padding-top: 60px;
+    color: #374b5c;
+    font-size: 35px;
+}
+
+.active-dot {
+    color: #00dbd0;
+}
+
+/* Part 4 */
+
+.part-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 200px;
+}
+
+.woman {
+    width: 97.6px;
+    height: 97.6px;
+    margin: 30px 0 20px 0;
+    border-radius: 100%;
+}
+
+.woman-name {
+    font-size: 26px;
+    font-weight: normal;
+    color: #374b5c;
+}
+
+.stars {
+    color: #00dbd0;
+    font-size: 35px;
+}
+
+.desc-part-4 {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 2.5;
+    color: #374b5c;
+}
+
+.dots-part-4 {
+    font-size: 35px;
+    color: #00dbd0;
+}
